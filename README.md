@@ -3,8 +3,6 @@
 - ✨currently learning Java. 
 - 👯 I’m looking to collaborate on FinTech projects.
 - 📫 How to reach me: +254758056305
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=serahshani)
 ### Languages & Technologies
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
