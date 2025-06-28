@@ -66,3 +66,5 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 ---
 
 ⭐️ From Shani.
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=serahshani&show_icons=true&theme=dark)](https://github.com/serahshani/github-readme-stats)
